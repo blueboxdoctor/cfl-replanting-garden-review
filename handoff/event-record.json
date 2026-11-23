@@ -1,0 +1,53 @@
+{
+ "title": "Replanting the Garden",
+ "subtitle_for_page": "Recovering Biblical Discipleship in Church and Family Life",
+ "shortName": "Replanting the Garden 2027",
+ "status": "open",
+ "scale": "regional",
+ "startDate": "2027-07-16T22:00:00.000Z",
+ "endDate": "2027-07-17T18:05:00.000Z",
+ "_dates_note": "Fri Jul 16 2027 6:00 PM EDT to Sat Jul 17 2027 2:05 PM EDT (Bainbridge GA is Eastern)",
+ "address": {
+  "venue": "Faith Community Church",
+  "address": "1998 Tallahassee Hwy",
+  "city": "Bainbridge",
+  "state": "GA",
+  "zip": "39819",
+  "country": "US",
+  "human": "Faith Community Church 1998 Tallahassee Hwy Bainbridge, GA 39819",
+  "coordinates": "geocode the address"
+ },
+ "speakers": [
+  "60ca3431e7346d3c2b733f3d",
+  "67ab67c89682f4ec5681efb1"
+ ],
+ "_speakers_note": "page order: Scott Brown, Justin Miller",
+ "description": "<p>Many churches want to strengthen families and disciple the next generation, but they have never seen a practical, biblical model for doing it. <strong>Replanting the Garden</strong> is a two-day conference for pastors, elders, fathers, mothers and church members who want to recover a Scripture-shaped vision for church and family life.</p><p>This isn’t a campaign against anything. It’s a return to something beautiful: fathers leading their homes, mothers taking up their high calling, elders equipping the whole flock, and old and young gathered together before the Lord to worship, to hear His Word, and to learn from one another.</p><p>Scott Brown and Justin Miller will walk through the biblical pattern for multi-generational discipleship, how the church came to separate the generations, what belongs to the family and what belongs to the church, and how a congregation can make wise, patient changes without tearing anything up. You’ll go home with next steps, not just principles.</p><p>Hosted by Faith Community Church in Bainbridge, Georgia.</p><h4>What you’ll take home</h4><ul><li>A biblical vision for the generations together</li><li>Clear lines of responsibility for fathers, mothers and elders</li><li>Practical help for family worship and children in the worship service</li><li>Gracious answers to common objections</li><li>A patient roadmap for change</li></ul>",
+ "descriptionMin": "A two-day conference in Bainbridge, Georgia, for pastors, elders, fathers, mothers and church members who want to recover a Scripture-shaped vision for church and family life.",
+ "schedule": "<div class=\"schedule-content\"><h3>Friday, July 16</h3><p>6:00–6:35 PM — Session 1 — The Beautiful Design of God for the Generations</p><p>6:40–7:15 PM — Session 2 — How Did We Get Here?</p><p>7:15–8:30 PM — Q&amp;A and Fellowship</p><h3>Saturday, July 17</h3><p>9:00–9:35 AM — Session 3 — Scripture Is Sufficient for Church and Family Life</p><p>9:40–10:15 AM — Session 4 — Getting Jurisdictions in Order</p><p>10:15–10:45 AM — Break</p><p>10:45–11:20 AM — Session 5 — Restoring the Biblical Functionality of the Family</p><p>11:25 AM–12:00 PM — Session 6 — The Corporate Gathering as Discipleship</p><p>12:00–1:30 PM — Lunch (Provided)</p><p>1:30–2:05 PM — Session 7 — Answering Common Objections</p></div>",
+ "lodging": "<div class=\"hotels\"><article class=\"hotel\"><div><p class=\"lab\">Recommended hotel</p><h4>Holiday Inn Express &amp; Suites Bainbridge by IHG</h4><p class=\"h-addr\">1413 Tallahassee Hwy, Bainbridge, GA 39819<br><a href=\"tel:+12292466771\">(229) 246-6771</a></p><p class=\"h-note\">On Tallahassee Hwy, the same road as the church.</p></div><p class=\"acts\"><a class=\"btn line\" href=\"https://www.ihg.com/holidayinnexpress/hotels/us/en/bainbridge/bgega/hoteldetail\" target=\"_blank\" rel=\"noopener\">Book a Room</a><a class=\"lnk\" href=\"https://www.google.com/maps/dir/?api=1&amp;origin=1413%20Tallahassee%20Hwy%2C%20Bainbridge%2C%20GA%2039819&amp;destination=1998%20Tallahassee%20Hwy%2C%20Bainbridge%2C%20GA%2039819\" target=\"_blank\" rel=\"noopener\">Directions to the church →</a></p></article></div>",
+ "ctas": {
+  "underDescription": null,
+  "underPricing": null,
+  "bottomOfPage": null
+ },
+ "allowVendors": false,
+ "useNewCheckout": true,
+ "bespokeTemplate": true,
+ "relatedEvents": [],
+ "bannerImage": "RTG-banner-2400x1350.jpg (upload to CFL S3)",
+ "rates": [
+  {
+   "title": "Replanting the Garden - Individual",
+   "kind": "individual",
+   "rateType": "Individual",
+   "price": 15
+  },
+  {
+   "title": "Replanting the Garden - Family",
+   "kind": "family",
+   "rateType": "Family",
+   "price": 45
+  }
+ ]
+}
